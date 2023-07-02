@@ -1,0 +1,487 @@
+name,source,gender,wikidata,type
+"Alma Street",wikidata,,Q913604,relation
+"Beach Street",wikidata,,Q40080,relation
+"Cantonment Street",wikidata,,Q2543279,relation
+"Carnac Street",wikidata,,Q3289994,way
+"Cliff Street",wikidata,,Q107679,relation
+"Elder Place",wikidata,,Q5353983,relation
+"Fleet Street",wikidata,,Q63978866,relation
+"Slip Street",wikidata,,Q361945,relation
+"Wardan Lane",wikidata,,Q9430;Q1251403,relation
+"Yalgoo Avenue",wikidata,,Q3571393,relation
+"098T CircleRoute (clockwise)",,,,relation
+"999 CircleRoute (anti-clockwise)",,,,relation
+"Ada Street",,,,way
+"Adams Street",,,,way
+"Agnes Street",,,,way
+"Ainslie Road",,,,way
+"Alfred Road",,,,way
+"Allen Street",,,,way
+"Annie Street",,,,way
+"Arundel Street",,,,way
+"Ashburton Terrace",,,,way
+"Atwell Arcade",,,,way
+"Badham Close",,,,way
+"Baird Place",,,,way
+"Baker Street",,,,way
+"Barfield Place",,,,way
+"Barker Street",,,,way
+"Bateman Street",,,,way
+"Bayleaf Retreat",,,,way
+"Beazley Way",,,,way
+"Bellamy Street",,,,way
+"Bellevue Terrace",,,,way
+"Belmont Street",,,,way
+"Bennewith Street",,,,way
+"Bickley Close",,,,way
+"Binns Court",,,,way
+"Birksgate Road",,,,way
+"Blamey Place",,,,way
+"Blinco Street",,,,way
+"Boas Place",,,,way
+"Bolt Street",,,,way
+"Bolton Place",,,,way
+"Booth Court",,,,way
+"Bostock Street",,,,way
+"Bowen Street",,,,way
+"Bracks Street",,,,way
+"Bradbury Way",,,,way
+"Bradley Court",,,,way
+"Bradley Court Spur",,,,way
+"Brennan Street",,,,way
+"Briggs Court",,,,way
+"Brockman Place",,,,way
+"Brolo Court",,,,way
+"Bromley Road",,,,way
+"Bruce Street",,,,way
+"Burford Place",,,,way
+"Burns Street",,,,way
+"Bus 158 to Perth",,,,relation
+"Bus 160 to Fremantle",,,,relation
+"Bus 502 to Bull Creek",,,,relation
+"Bus 502 to Fremantle",,,,relation
+"Bus 511 to Fremantle",,,,relation
+"Bus 511 to Murdoch",,,,relation
+"Bus 513 to Bull Creek",,,,relation
+"Bus 513 to Fremantle",,,,relation
+"Butson Street",,,,way
+"Butterworth Place",,,,way
+"Cadd Street",,,,way
+"Caesar Street",,,,way
+"Caldwell Street",,,,way
+"Canning Highway",,,,relation
+"Canning Highway Exit",,,,way
+"Capo D'Orlando Drive",,,,way
+"Captains Lane",,,,way
+"Carob Court",,,,way
+"Carr Street",,,,way
+"Carrington Street",,,,way
+"Carrington Street Exit",,,,way
+"Cattalini Lane",,,,way
+"Central Avenue",,,,way
+"Chadwick Street",,,,way
+"Chalmers Street",,,,way
+"Chamberlain Street",,,,way
+"Charles Street",,,,way
+"Chester Street",,,,way
+"Chivers Court",,,,way
+"Christina Parade",,,,way
+"Chudleigh Street",,,,way
+"Clarke Street",,,,way
+"Clontarf Road",,,,relation
+"Cockburn Road",,,,relation
+"College Corner",,,,way
+"Collick Street",,,,way
+"Collinson Street",,,,way
+"Commercial Street",,,,way
+"Congdon Street",,,,way
+"Conway Court",,,,way
+"Coode Street",,,,way
+"Cooke Street",,,,way
+"Coral Street",,,,way
+"Corkhill Street",,,,way
+"Cottonwood Place",,,,way
+"Coventry Parade",,,,way
+"Covich Avenue",,,,way
+"Cower Mews",,,,way
+"Crabtree Mews",,,,way
+"Craig Street",,,,way
+"Crandon Street",,,,way
+"Cumbor Way",,,,way
+"Curedale Street",,,,relation
+"Cypress Lane",,,,way
+"Dale Street",,,,relation
+"Dalgety Street",,,,way
+"Daly Street",,,,way
+"Darling Street",,,,way
+"Darroch Street",,,,way
+"Davies Street",,,,way
+"Deering Street",,,,way
+"Delamere Lane",,,,way
+"Delrosso Place",,,,way
+"Dermer Road",,,,way
+"Direction Way",,,,way
+"Dixon Street",,,,way
+"Doepel Street",,,,way
+"Doig Place",,,,way
+"Dorothy Street",,,,relation
+"Dorrie Lane",,,,way
+"Douglas Street",,,,way
+"Doust Street",,,,way
+"Duffield Avenue",,,,way
+"East Street",,,,relation+way
+"Edgar Court",,,,way
+"Edmondson Street",,,,way
+"Edmund Street",,,,way
+"Edward Street",,,,way
+"Elizabeth Street",,,,way
+"Emma Place",,,,way
+"Essex Street",,,,relation
+"Ethelwyn Street",,,,way
+"Eucla Court",,,,way
+"Euphrasie Court",,,,way
+"FMWO Fremantle to Woodman Point",,,,relation
+"Farrell Street",,,,way
+"Fay Street",,,,way
+"Feeney Street",,,,way
+"Ferres Street",,,,way
+"Field Street",,,,way
+"Fifth Avenue",,,,way
+"Finnerty Street",,,,relation
+"Fisher Street",,,,way
+"Flindell Street",,,,way
+"Forrest Street",,,,way
+"Forsyth Street",,,,way
+"Foundry Court",,,,way
+"Francisco Street",,,,way
+"Fremantle Blue Cat",,,,relation
+"Fremantle Line: Fremante → Perth",,,,relation
+"Fremantle Line: Perth → Fremantle",,,,relation
+"Fremantle Railway PSP",,,,relation
+"Fremantle Red Cat",,,,relation
+"Fremantle Writers Walk",,,,relation
+"Fullston Way",,,,way
+"Gallop Street",,,,way
+"Garling Street",,,,way
+"Garling Street Exit",,,,way
+"Gibson Street",,,,way
+"Girton Lane",,,,way
+"Glyde Street",,,,way
+"Gold Street",,,,relation
+"Goldsbrough Street",,,,way
+"Gough Place",,,,way
+"Greer Lane",,,,way
+"Grey Street",,,,way
+"Griffiths Place",,,,way
+"Grigg Place",,,,way
+"Grosvenor Street",,,,way
+"Hale Street",,,,way
+"Hanlin Way",,,,way
+"Harbour Road",,,,way
+"Hargreaves Road",,,,way
+"Harvest Road",,,,way
+"Harwood Street",,,,way
+"Haynes Court",,,,way
+"Healy Road",,,,way
+"Hebbard Street",,,,way
+"Henville Street",,,,way
+"Herbert Street",,,,way
+"Hevron Street",,,,way
+"Hickory Street",,,,way
+"Hicks Street",,,,way
+"High Street",,,,relation+way
+"High Street Exit",,,,way
+"Higham Road",,,,way
+"Hines Road",,,,way
+"Holdsworth Street",,,,relation
+"Holland Street",,,,way
+"Hollis Street",,,,way
+"Holmes Place",,,,way
+"Hope Street",,,,way
+"Howard Street",,,,way
+"Howell Vista",,,,way
+"Howson Street",,,,way
+"Hubble Street",,,,way
+"Hudson Mews",,,,way
+"Hughes Street",,,,way
+"Hulbert Street",,,,way
+"Instone Street",,,,way
+"Inverleith Street",,,,way
+"Island Street",,,,way
+"Ives Close",,,,way
+"Jackson Street",,,,way
+"James Street",,,,way
+"Jarvis Street",,,,way
+"Jean Street",,,,way
+"Jeffery Street",,,,way
+"Jenkin Street",,,,relation
+"John Street",,,,way
+"John Street Exit",,,,way
+"Jones Street",,,,way
+"Jose Court",,,,way
+"Josephson Street",,,,way
+"Joslin Street",,,,way
+"Karak Lane",,,,way
+"Keady Way",,,,way
+"Keegan Street",,,,way
+"Keel Place",,,,way
+"Keeling Way",,,,way
+"Kellow Place",,,,way
+"Kildare Link",,,,way
+"King Street",,,,way
+"King William Street",,,,way
+"Kirby Way",,,,way
+"Knutsford Street",,,,way
+"Koolbardi Lane",,,,way
+"Kooringa Place",,,,way
+"Kybra Lane",,,,way
+"Ladner Street",,,,way
+"Laidlaw Street",,,,way
+"Lawrence Way",,,,way
+"Leach Highway",,,,relation
+"Leach Highway Exit",,,,way
+"Lee Avenue",,,,way
+"Lefroy Road",,,,way
+"Leighton Beach Boulevard",,,,way
+"Leighton Development Road",,,,way
+"Leitrim Lane",,,,way
+"Leslie Road",,,,way
+"Letchford Street",,,,way
+"Letitia Road",,,,way
+"Lewington Street",,,,way
+"Lewis Court",,,,way
+"Lilly Street",,,,way
+"Lime Street",,,,way
+"Little High Street",,,,way
+"Little Howard Street",,,,way
+"Little Lefroy Lane",,,,way
+"Livingstone Street",,,,way
+"Lloyd Street",,,,way
+"Lockett Street",,,,way
+"Long Street",,,,way
+"Longford Road",,,,way
+"Louisa Street",,,,way
+"Loukes Street",,,,way
+"Lynch Place",,,,way
+"Lynn Street",,,,way
+"Malcolm Street",,,,way
+"Manning Arcade",,,,way
+"Manning Street",,,,way
+"Manoora Close",,,,way
+"Marchant Road",,,,way
+"Mardie Street",,,,way
+"Marimont Street",,,,way
+"Marine Terrace",,,,relation+way
+"Market Street",,,,relation
+"Marmion Street",,,,way
+"Marsh Close",,,,way
+"Marshall Way",,,,way
+"Martha Street",,,,way
+"Martha Street East",,,,way
+"Martha Street West",,,,way
+"Mather Road",,,,way
+"Mathieson Avenue",,,,way
+"Maxwell Street",,,,way
+"McAtee Court",,,,way
+"McCabe Street",,,,way
+"McCleery Street",,,,way
+"McCombe Avenue",,,,way
+"McGregor Road",,,,way
+"McKenzie Road",,,,way
+"McLaren Street",,,,way
+"McMahon Way",,,,way
+"McNeece Place",,,,way
+"Mews Road",,,,relation
+"Michael Street",,,,way
+"Milbourne Street",,,,way
+"Milroy Street",,,,way
+"Milson Place",,,,way
+"Minilya Avenue",,,,way
+"Mofflin Street",,,,way
+"Montgomery Street",,,,way
+"Montreal Street",,,,way
+"Mooney Place",,,,way
+"Moran Court",,,,way
+"Moran Street",,,,way
+"Morris Street",,,,way
+"Moss Street",,,,way
+"Mouquet Vista",,,,way
+"Mrs Trivett Place",,,,way
+"Mulberry Farm Lane",,,,way
+"Murphy Street",,,,way
+"Nannine Avenue",,,,way
+"National Route 1",,,,relation
+"Navan Court",,,,way
+"Naylor Street",,,,way
+"Nelson Street",,,,way
+"Newbold Street",,,,way
+"Newman Court",,,,way
+"Newmarket Street",,,,way
+"Nicholas Crescent",,,,way
+"Noble Close",,,,way
+"Noel Street",,,,way
+"Norfolk Lane",,,,way
+"Norfolk Street",,,,relation
+"Norman Street",,,,way
+"North Mole Drive",,,,way
+"Notley Court",,,,way
+"O'Hara Street",,,,way
+"O'Reilly Close",,,,way
+"Ocean Drive",,,,way
+"Ocean Road",,,,way
+"Onslow Street",,,,way
+"Orchard Lane",,,,way
+"Orient Street",,,,way
+"Paddy Troy Mall",,,,way
+"Paget Street",,,,way
+"Palmerston Row",,,,way
+"Pamment Street",,,,way
+"Parmelia Street",,,,way
+"Pass Crescent",,,,way
+"Passmore Avenue",,,,way
+"Paton Place",,,,way
+"Pearse Street",,,,way
+"Peel Road",,,,way
+"Pensioner Guard Road",,,,way
+"Petra Street",,,,way
+"Petterson Avenue",,,,way
+"Phillimore Street",,,,relation
+"Phyllis Street",,,,way
+"Pilbarra Street",,,,way
+"Pilling Place",,,,way
+"Pioneer Court",,,,way
+"Plane Tree Grove",,,,way
+"Point Street",,,,way
+"Porcelli Close",,,,way
+"Port Beach Road",,,,way
+"Port Beach Road Exit",,,,way
+"Porter Street",,,,way
+"Pritchard Street",,,,way
+"Proctor Street",,,,way
+"Prowse Street",,,,way
+"Quarry Street",,,,way
+"Queen Street",,,,relation
+"Queen Victoria Street Exit",,,,way
+"Queens Square",,,,way
+"Rawlinson Street",,,,way
+"Redmond Road",,,,way
+"Rees Street",,,,way
+"Rennie Crescent North",,,,way
+"Rennie Crescent South",,,,way
+"Reuben Street",,,,way
+"Reveley Court",,,,way
+"Ride around the Rivers Ride 4 - Mosman Park to Fremantle",,,,relation
+"Riverside Road",,,,way
+"Robinson Street",,,,way
+"Rochfort Way",,,,way
+"Rockingham Road",,,,relation
+"Rollinson Road",,,,way
+"Roper Street",,,,way
+"Roscommon Crescent",,,,way
+"Rose Street",,,,way
+"Rous Head Road",,,,way
+"Rowe Court",,,,way
+"Rudderham Drive",,,,way
+"Rushby Way",,,,way
+"Sainsbury Road",,,,way
+"Salustri Place",,,,way
+"Samson Street",,,,relation
+"Scott Street",,,,way
+"Seaview Street",,,,way
+"Sellenger Avenue",,,,way
+"Sewell Street",,,,way
+"Sheedy Street",,,,way
+"Shepherd Street",,,,way
+"Short Street",,,,way
+"Shuffrey Street",,,,relation
+"Silver Street",,,,way
+"Simms Road",,,,way
+"Simper Crescent",,,,way
+"Skinner Street",,,,way
+"Sleeman Close",,,,way
+"Smith Street",,,,way
+"Snook Crescent",,,,way
+"Solomon Street",,,,way
+"South Beach Promenade",,,,way
+"South Street",,,,relation
+"South Street Exit",,,,way
+"South Terrace",,,,relation
+"Sowden Drive",,,,way
+"Stack Street",,,,way
+"Stamos Court",,,,way
+"Staples Street",,,,way
+"State Route 12",,,,relation
+"State Route 13",,,,relation
+"State Route 5",,,,relation
+"State Route 6",,,,relation
+"State Route 7",,,,relation
+"Stevens Street",,,,way
+"Stirling Highway Exit",,,,way
+"Stirling Street",,,,way
+"Stock Road",,,,relation
+"Stock Road Exit",,,,way
+"Stockdale Road",,,,way
+"Stokes Street",,,,way
+"Strang Court",,,,way
+"Strang Street",,,,way
+"Suffolk Street",,,,way
+"Sultan Way",,,,way
+"Sumpton Street",,,,way
+"Sunset Coast Tourist Drive",,,,relation
+"Swan Street",,,,way
+"Swanbourne Street",,,,way
+"Sweetman Street",,,,way
+"Sydney Street",,,,way
+"Tangney Crescent",,,,way
+"Tapper Street",,,,way
+"Taylor Street",,,,way
+"Temby Court",,,,way
+"Terrazzo Lane",,,,way
+"Terrene Lane",,,,way
+"The Cutting",,,,way
+"Thomas Street",,,,way
+"Thompson Road",,,,way
+"Thornett Street",,,,way
+"Tidal Lane",,,,way
+"Tipuana Green",,,,way
+"Tonkin Road",,,,way
+"Trafford Street",,,,way
+"Tuckfield Street",,,,relation
+"Tydeman Road",,,,way
+"Tydeman Road Exit",,,,way
+"Tyrone Street",,,,way
+"Vale Street",,,,way
+"Vickridge Close",,,,way
+"Victor Street",,,,way
+"Village Lane",,,,way
+"Walker Street",,,,way
+"Wallwork Court",,,,way
+"Ward Street",,,,way
+"Wardie Street",,,,way
+"Wardle Place",,,,way
+"Wardle Road",,,,way
+"Warren Street",,,,way
+"Waterford Street",,,,way
+"Watkins Street",,,,way
+"Weatherburn Way",,,,way
+"Wellesley Way",,,,way
+"Wesley Street",,,,way
+"Westmeath Street",,,,way
+"Wexford Way",,,,way
+"Wharfing Lane",,,,way
+"White Street",,,,way
+"Wicklow Close",,,,way
+"Wilkinson Street",,,,way
+"Willis Road",,,,way
+"Wiluna Avenue",,,,way
+"Winterfold Road",,,,way
+"Wongan Avenue",,,,way
+"Wood Street",,,,way
+"Woylie Lane",,,,way
+"Wright Street",,,,way
+"Wyola Lane",,,,way
+"Yarrick Street",,,,way
+"Yilgarn Street",,,,way
+"York Street",,,,way
+"Yuna Lane",,,,way
+"Zeta Crescent",,,,way

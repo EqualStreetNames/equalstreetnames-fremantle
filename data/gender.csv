@@ -28,6 +28,7 @@ name,source,gender,wikidata,type
 "Peter Hughes Drive",wikidata,M,Q108326291,relation
 "Price Street",wikidata,M,Q24845751,relation
 "Russell Street",wikidata,M,Q157259,way
+"Shuffrey Street",wikidata,M,Q120176574,relation
 "Stirling Highway",wikidata,M,Q1360030,relation
 "William Street",wikidata,M,Q130822,relation+way
 "Wray Avenue",wikidata,M,Q108030089,relation

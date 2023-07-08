@@ -6,6 +6,9 @@ name,source,gender,wikidata,type
 "Cliff Street",wikidata,,Q107679,relation
 "Elder Place",wikidata,,Q5353983,relation
 "Fleet Street",wikidata,,Q63978866,relation
+"Knutsford Street",wikidata,,Q1470791,relation
+"Point Street",wikidata,,Q24529780,relation
+"Quarry Street",wikidata,,Q188040,relation
 "Slip Street",wikidata,,Q361945,relation
 "Wardan Lane",wikidata,,Q9430;Q1251403,relation
 "Yalgoo Avenue",wikidata,,Q3571393,relation
@@ -133,7 +136,6 @@ name,source,gender,wikidata,type
 "Edgar Court",,,,way
 "Edmondson Street",,,,way
 "Edmund Street",,,,way
-"Edward Street",,,,way
 "Elizabeth Street",,,,way
 "Emma Place",,,,way
 "Essex Street",,,,relation
@@ -231,7 +233,6 @@ name,source,gender,wikidata,type
 "King Street",,,,way
 "King William Street",,,,way
 "Kirby Way",,,,way
-"Knutsford Street",,,,way
 "Koolbardi Lane",,,,way
 "Kooringa Place",,,,way
 "Kybra Lane",,,,way
@@ -351,7 +352,6 @@ name,source,gender,wikidata,type
 "Pilling Place",,,,way
 "Pioneer Court",,,,way
 "Plane Tree Grove",,,,way
-"Point Street",,,,way
 "Porcelli Close",,,,way
 "Port Beach Road",,,,way
 "Port Beach Road Exit",,,,way
@@ -359,7 +359,6 @@ name,source,gender,wikidata,type
 "Pritchard Street",,,,way
 "Proctor Street",,,,way
 "Prowse Street",,,,way
-"Quarry Street",,,,way
 "Queen Street",,,,relation
 "Queen Victoria Street Exit",,,,way
 "Queens Square",,,,way
@@ -416,7 +415,6 @@ name,source,gender,wikidata,type
 "State Route 7",,,,relation
 "Stevens Street",,,,way
 "Stirling Highway Exit",,,,way
-"Stirling Street",,,,way
 "Stock Road",,,,relation
 "Stock Road Exit",,,,way
 "Stockdale Road",,,,way

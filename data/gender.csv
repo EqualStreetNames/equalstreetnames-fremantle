@@ -15,6 +15,7 @@ name,source,gender,wikidata,type
 "Croke Street",wikidata,M,Q64876076,relation
 "Culver Street",wikidata,M,Q119189284,relation
 "Douro Road",wikidata,M,Q131691,relation
+"Edward Street",wikidata,M,Q437310,relation
 "Fairbairn Street",wikidata,M,Q61911855,relation
 "Fothergill Street",wikidata,M,Q119862370,way
 "Henderson Street",wikidata,M,Q5339554,way
@@ -30,5 +31,6 @@ name,source,gender,wikidata,type
 "Russell Street",wikidata,M,Q157259,way
 "Shuffrey Street",wikidata,M,Q120176574,relation
 "Stirling Highway",wikidata,M,Q1360030,relation
+"Stirling Street",wikidata,M,Q1360030,relation
 "William Street",wikidata,M,Q130822,relation+way
 "Wray Avenue",wikidata,M,Q108030089,relation

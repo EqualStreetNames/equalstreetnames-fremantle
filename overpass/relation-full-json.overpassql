@@ -3,7 +3,6 @@
 (
     relation["type"="associatedStreet"]["name"](area.a);
     relation["type"="street"]["name"](area.a);
-    relation["type"="route"]["name"](area.a);
     relation["type"="multipolygon"]["place"]["name"](area.a);
     relation["type"="multipolygon"]["highway"]["name"](area.a);
 );

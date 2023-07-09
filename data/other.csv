@@ -1,6 +1,8 @@
 name,source,gender,wikidata,type
+"Alma Street",wikidata,,Q913604,relation
 "Cantonment Street",wikidata,,Q2543279,relation
 "Carnac Street",wikidata,,Q3289994,way
+"Cliff Street",wikidata,,Q107679,relation
 "Fleet Street",wikidata,,Q63978866,relation
 "Knutsford Street",wikidata,,Q1470791,relation
 "Point Street",wikidata,,Q24529780,relation+way
@@ -9,18 +11,15 @@ name,source,gender,wikidata,type
 "Wardan Lane",wikidata,,Q9430;Q1251403,relation
 "Ada Street",,,,way
 "Adams Street",,,,way
-"Adelaide Street",,,,way
 "Agnes Street",,,,way
 "Ainslie Road",,,,way
 "Alfred Road",,,,way
 "Allen Street",,,,way
-"Alma Street",,,,way
 "Amherst Street",,,,way
 "Annie Street",,,,way
 "Antrim Lane",,,,way
 "Arundel Street",,,,way
 "Ashburton Terrace",,,,way
-"Attfield Street",,,,way
 "Atwell Arcade",,,,way
 "Badham Close",,,,way
 "Baird Place",,,,way
@@ -61,7 +60,6 @@ name,source,gender,wikidata,type
 "Bruce Street",,,,way
 "Burford Place",,,,way
 "Burns Street",,,,way
-"Burt Street",,,,way
 "Butson Street",,,,way
 "Butterworth Place",,,,way
 "Cadd Street",,,,way
@@ -87,12 +85,10 @@ name,source,gender,wikidata,type
 "Christina Parade",,,,way
 "Chudleigh Street",,,,way
 "Clarke Street",,,,way
-"Cliff Street",,,,way
 "Clontarf Road",,,,way
 "Cockburn Road",,,,way
 "College Corner",,,,way
 "Collick Street",,,,way
-"Collie Street",,,,way
 "Collinson Street",,,,way
 "Commercial Street",,,,way
 "Congdon Street",,,,way
@@ -108,7 +104,6 @@ name,source,gender,wikidata,type
 "Crabtree Mews",,,,way
 "Craig Street",,,,way
 "Crandon Street",,,,way
-"Croke Street",,,,way
 "Culver Street",,,,way
 "Cumbor Way",,,,way
 "Curedale Street",,,,way
@@ -130,22 +125,21 @@ name,source,gender,wikidata,type
 "Dixon Street",,,,way
 "Doepel Street",,,,way
 "Doig Place",,,,way
-"Dorothy Street",,,,way
+"Dorothy Street",,,,relation
 "Dorrie Lane",,,,way
 "Douglas Street",,,,way
 "Douro Road",,,,way
 "Doust Street",,,,way
 "Duffield Avenue",,,,way
-"East Street",,,,way
+"East Street",,,,relation+way
 "Edgar Court",,,,way
 "Edmondson Street",,,,way
 "Edmund Street",,,,way
 "Elder Place",,,,way
 "Elizabeth Street",,,,way
-"Ellen Street",,,,way
 "Emma Place",,,,way
 "Essex Lane",,,,way
-"Essex Street",,,,way
+"Essex Street",,,,relation
 "Ethelwyn Street",,,,way
 "Eucla Court",,,,way
 "Euphrasie Court",,,,way
@@ -156,7 +150,7 @@ name,source,gender,wikidata,type
 "Ferres Street",,,,way
 "Field Street",,,,way
 "Fifth Avenue",,,,way
-"Finnerty Street",,,,way
+"Finnerty Street",,,,relation
 "Fisher Street",,,,way
 "Fleay Lane",,,,way
 "Flindell Street",,,,way
@@ -191,7 +185,6 @@ name,source,gender,wikidata,type
 "Haynes Court",,,,way
 "Healy Road",,,,way
 "Hebbard Street",,,,way
-"Henry Street",,,,way
 "Henville Street",,,,way
 "Herbert Street",,,,way
 "Hevron Street",,,,way
@@ -201,7 +194,7 @@ name,source,gender,wikidata,type
 "High Street Exit",,,,way
 "Higham Road",,,,way
 "Hines Road",,,,way
-"Holdsworth Street",,,,way
+"Holdsworth Street",,,,relation
 "Holland Street",,,,way
 "Hollis Street",,,,way
 "Holmes Place",,,,way
@@ -232,7 +225,6 @@ name,source,gender,wikidata,type
 "John Street Exit",,,,way
 "Jones Street",,,,way
 "Jose Court",,,,way
-"Josephson Street",,,,way
 "Joslin Street",,,,way
 "Karak Lane",,,,way
 "Keady Way",,,,way
@@ -288,7 +280,7 @@ name,source,gender,wikidata,type
 "Mardie Street",,,,way
 "Marimont Street",,,,way
 "Marine Terrace",,,,way
-"Market Street",,,,way
+"Market Street",,,,relation
 "Marmion Street",,,,way
 "Marsh Close",,,,way
 "Marshall Way",,,,way
@@ -310,7 +302,7 @@ name,source,gender,wikidata,type
 "McMahon Way",,,,way
 "McNeece Place",,,,way
 "Meiers Street",,,,way
-"Mews Road",,,,way
+"Mews Road",,,,relation
 "Michael Street",,,,way
 "Milbourne Street",,,,way
 "Milky Way",,,,way
@@ -343,7 +335,7 @@ name,source,gender,wikidata,type
 "Noble Close",,,,way
 "Noel Street",,,,way
 "Norfolk Lane",,,,way
-"Norfolk Street",,,,way
+"Norfolk Street",,,,relation
 "Norman Street",,,,way
 "North Mole Drive",,,,way
 "North Quay Road",,,,way
@@ -356,11 +348,9 @@ name,source,gender,wikidata,type
 "Oldham Crescent",,,,way
 "Onslow Street",,,,way
 "Orchard Lane",,,,way
-"Ord Street",,,,way
 "Orient Street",,,,way
 "Paddy Troy Mall",,,,way
 "Paget Street",,,,way
-"Pakenham Street",,,,way
 "Palmerston Row",,,,way
 "Pamment Street",,,,way
 "Parmelia Street",,,,way
@@ -371,11 +361,10 @@ name,source,gender,wikidata,type
 "Pearse Street",,,,way
 "Peel Road",,,,way
 "Pensioner Guard Road",,,,way
-"Peter Hughes Drive",,,,way
 "Petra Street",,,,way
 "Petterson Avenue",,,,way
 "Phanos Lane",,,,way
-"Phillimore Street",,,,way
+"Phillimore Street",,,,relation+way
 "Phyllis Street",,,,way
 "Pilbarra Street",,,,way
 "Pilling Place",,,,way
@@ -386,11 +375,10 @@ name,source,gender,wikidata,type
 "Port Beach Road",,,,way
 "Port Beach Road Exit",,,,way
 "Porter Street",,,,way
-"Price Street",,,,way
 "Pritchard Street",,,,way
 "Proctor Street",,,,way
 "Prowse Street",,,,way
-"Queen Street",,,,way
+"Queen Street",,,,relation
 "Queen Victoria Street",,,,way
 "Queen Victoria Street Exit",,,,way
 "Queens Square",,,,way
@@ -472,7 +460,7 @@ name,source,gender,wikidata,type
 "Tonkin Road",,,,way
 "Trafford Street",,,,way
 "Trusting Lane",,,,way
-"Tuckfield Street",,,,way
+"Tuckfield Street",,,,relation
 "Turton Street",,,,way
 "Tydeman Road",,,,way
 "Tydeman Road Exit",,,,way
@@ -507,7 +495,6 @@ name,source,gender,wikidata,type
 "Wongan Avenue",,,,way
 "Wood Street",,,,way
 "Woylie Lane",,,,way
-"Wray Avenue",,,,way
 "Wright Street",,,,way
 "Wyola Lane",,,,way
 "Yalgoo Avenue",,,,way

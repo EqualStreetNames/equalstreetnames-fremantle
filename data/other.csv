@@ -1,8 +1,11 @@
 name,source,gender,wikidata,type
 "Alma Street",wikidata,,Q913604,relation
+"Arundel Street",wikidata,,Q42114651,relation
 "Cantonment Street",wikidata,,Q2543279,relation
 "Carnac Street",wikidata,,Q3289994,way
 "Cliff Street",wikidata,,Q107679,relation
+"East Street",wikidata,,Q684,relation+way
+"Essex Street",wikidata,,Q23240,relation
 "Fleet Street",wikidata,,Q63978866,relation
 "Knutsford Street",wikidata,,Q1470791,relation
 "Point Street",wikidata,,Q24529780,relation+way
@@ -18,7 +21,6 @@ name,source,gender,wikidata,type
 "Amherst Street",,,,way
 "Annie Street",,,,way
 "Antrim Lane",,,,way
-"Arundel Street",,,,way
 "Ashburton Terrace",,,,way
 "Atwell Arcade",,,,way
 "Badham Close",,,,way
@@ -131,7 +133,6 @@ name,source,gender,wikidata,type
 "Douro Road",,,,way
 "Doust Street",,,,way
 "Duffield Avenue",,,,way
-"East Street",,,,relation+way
 "Edgar Court",,,,way
 "Edmondson Street",,,,way
 "Edmund Street",,,,way
@@ -139,7 +140,6 @@ name,source,gender,wikidata,type
 "Elizabeth Street",,,,way
 "Emma Place",,,,way
 "Essex Lane",,,,way
-"Essex Street",,,,relation
 "Ethelwyn Street",,,,way
 "Eucla Court",,,,way
 "Euphrasie Court",,,,way
@@ -150,7 +150,6 @@ name,source,gender,wikidata,type
 "Ferres Street",,,,way
 "Field Street",,,,way
 "Fifth Avenue",,,,way
-"Finnerty Street",,,,relation
 "Fisher Street",,,,way
 "Fleay Lane",,,,way
 "Flindell Street",,,,way
@@ -349,7 +348,6 @@ name,source,gender,wikidata,type
 "Onslow Street",,,,way
 "Orchard Lane",,,,way
 "Orient Street",,,,way
-"Paddy Troy Mall",,,,way
 "Paget Street",,,,way
 "Palmerston Row",,,,way
 "Pamment Street",,,,way
@@ -378,7 +376,6 @@ name,source,gender,wikidata,type
 "Pritchard Street",,,,way
 "Proctor Street",,,,way
 "Prowse Street",,,,way
-"Queen Street",,,,relation
 "Queen Victoria Street",,,,way
 "Queen Victoria Street Exit",,,,way
 "Queens Square",,,,way

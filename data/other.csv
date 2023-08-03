@@ -1,16 +1,20 @@
 name,source,gender,wikidata,type
 "Alma Street",wikidata,,Q913604,relation
 "Arundel Street",wikidata,,Q42114651,relation
+"Ashburton Terrace",wikidata,,Q724939,way
 "Cantonment Street",wikidata,,Q2543279,relation
 "Carnac Street",wikidata,,Q3289994,way
+"Carnac Way",wikidata,,Q3289994,way
 "Cliff Street",wikidata,,Q107679,relation
 "East Street",wikidata,,Q684,relation+way
 "Essex Street",wikidata,,Q23240,relation
 "Fleet Street",wikidata,,Q63978866,relation
+"Goldsbrough Street",wikidata,,Q24185620,way
 "Knutsford Street",wikidata,,Q1470791,relation
 "Point Street",wikidata,,Q24529780,relation+way
 "Quarry Street",wikidata,,Q188040,relation+way
 "Slip Street",wikidata,,Q361945,relation
+"Suffolk Street",wikidata,,Q23111,way
 "Wardan Lane",wikidata,,Q9430;Q1251403,relation
 "Ada Street",,,,way
 "Adams Street",,,,way
@@ -21,7 +25,6 @@ name,source,gender,wikidata,type
 "Amherst Street",,,,way
 "Annie Street",,,,way
 "Antrim Lane",,,,way
-"Ashburton Terrace",,,,way
 "Atwell Arcade",,,,way
 "Badham Close",,,,way
 "Baird Place",,,,way
@@ -54,7 +57,6 @@ name,source,gender,wikidata,type
 "Bradbury Way",,,,way
 "Bradley Court",,,,way
 "Bradley Court Spur",,,,way
-"Brennan Street",,,,way
 "Briggs Court",,,,way
 "Brockman Place",,,,way
 "Brolo Court",,,,way
@@ -71,7 +73,6 @@ name,source,gender,wikidata,type
 "Canning Highway Exit",,,,way
 "Capo D'Orlando Drive",,,,way
 "Captains Lane",,,,way
-"Carnac Way",,,,way
 "Carob Court",,,,way
 "Carr Street",,,,way
 "Carrington Street",,,,way
@@ -167,10 +168,9 @@ name,source,gender,wikidata,type
 "Girton Lane",,,,way
 "Glyde Street",,,,way
 "Gold Street",,,,way
-"Goldsbrough Street",,,,way
 "Gough Place",,,,way
 "Greer Lane",,,,way
-"Grey Street",,,,way
+"Grey Street",,,,relation
 "Griffiths Place",,,,way
 "Grigg Place",,,,way
 "Grosvenor Street",,,,way
@@ -198,11 +198,9 @@ name,source,gender,wikidata,type
 "Hollis Street",,,,way
 "Holmes Place",,,,way
 "Hope Street",,,,way
-"Howard Street",,,,way
 "Howell Vista",,,,way
 "Howson Street",,,,way
 "Hubble Street",,,,way
-"Hudson Mews",,,,way
 "Hughes Street",,,,way
 "Hulbert Street",,,,way
 "Humble Way",,,,way
@@ -273,7 +271,7 @@ name,source,gender,wikidata,type
 "Lynn Street",,,,way
 "Malcolm Street",,,,way
 "Manning Arcade",,,,way
-"Manning Street",,,,way
+"Manning Street",,,,relation
 "Manoora Close",,,,way
 "Marchant Road",,,,way
 "Mardie Street",,,,way
@@ -362,7 +360,6 @@ name,source,gender,wikidata,type
 "Petra Street",,,,way
 "Petterson Avenue",,,,way
 "Phanos Lane",,,,way
-"Phillimore Street",,,,relation+way
 "Phyllis Street",,,,way
 "Pilbarra Street",,,,way
 "Pilling Place",,,,way
@@ -416,7 +413,6 @@ name,source,gender,wikidata,type
 "Sleeman Close",,,,way
 "Smith Street",,,,way
 "Snook Crescent",,,,way
-"Solomon Street",,,,way
 "South Beach Promenade",,,,way
 "South Street",,,,way
 "South Street Exit",,,,way
@@ -425,7 +421,6 @@ name,source,gender,wikidata,type
 "Stack Street",,,,way
 "Stamos Court",,,,way
 "Staples Street",,,,way
-"Stevens Street",,,,way
 "Stirling Highway",,,,way
 "Stirling Highway Exit",,,,way
 "Stock Road",,,,way
@@ -434,7 +429,6 @@ name,source,gender,wikidata,type
 "Stokes Street",,,,way
 "Strang Court",,,,way
 "Strang Street",,,,way
-"Suffolk Street",,,,way
 "Sultan Way",,,,way
 "Sumpton Street",,,,way
 "Swan Street",,,,way

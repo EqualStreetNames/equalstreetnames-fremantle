@@ -7,9 +7,10 @@ name,source,gender,wikidata,type
 "Attfield Street",wikidata,M,Q16030955,relation
 "Bannister Street",wikidata,M,Q2031640,way
 "Barnett Street",wikidata,M,Q56447151,way
+"Brennan Street",wikidata,M,Q120884956,way
 "Burt Street",wikidata,M,Q4786233,relation
 "Collie Street",wikidata,M,Q443356,relation
-"Croke Lane",wikidata,M,Q64876076,way
+"Croke Lane",wikidata,M,Q64876076;Q8007542,way
 "Croke Street",wikidata,M,Q64876076,relation
 "Edward Street",wikidata,M,Q437310,relation
 "Fairbairn Street",wikidata,M,Q61911855,relation
@@ -17,6 +18,8 @@ name,source,gender,wikidata,type
 "Fothergill Street",wikidata,M,Q119862370,way
 "Henderson Street",wikidata,M,Q5339554,way
 "Henry Street",wikidata,M,Q108541423,relation
+"Howard Street",wikidata,M,Q5342919,relation
+"Hudson Mews",wikidata,M,Q121022312,way
 "Josephson Street",wikidata,M,Q120486115,way
 "Leake Street",wikidata,M,Q5541609,relation
 "Mouat Street",wikidata,M,Q108541417,relation
@@ -26,9 +29,12 @@ name,source,gender,wikidata,type
 "Pakenham Street",wikidata,M,Q108541429,relation
 "Parry Street",wikidata,M,Q437310,relation
 "Peter Hughes Drive",wikidata,M,Q108326291,relation
+"Phillimore Street",wikidata,M,Q6252794,relation+way
 "Price Street",wikidata,M,Q24845751,relation
 "Russell Street",wikidata,M,Q157259,way
 "Shuffrey Street",wikidata,M,Q120176574,relation
+"Solomon Street",wikidata,M,Q5360607,relation
+"Stevens Street",wikidata,M,Q1520474,relation
 "Stirling Street",wikidata,M,Q1360030,relation
 "William Street",wikidata,M,Q130822,relation
 "Wray Avenue",wikidata,M,Q108030089,relation

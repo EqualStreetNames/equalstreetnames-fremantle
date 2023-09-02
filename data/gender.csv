@@ -20,8 +20,10 @@ name,source,gender,wikidata,type
 "Henry Street",wikidata,M,Q108541423,relation
 "Howard Street",wikidata,M,Q5342919,relation
 "Hudson Mews",wikidata,M,Q121022312,way
+"James Street",wikidata,M,Q1360030,relation
 "Josephson Street",wikidata,M,Q120486115,way
 "Leake Street",wikidata,M,Q5541609,relation
+"Malcolm Street",wikidata,M,Q6742324,relation
 "Mouat Street",wikidata,M,Q108541417,relation
 "Nairn Street",wikidata,M,Q57986646,relation
 "Ord Street",wikidata,M,Q1586678,relation+way
@@ -36,5 +38,6 @@ name,source,gender,wikidata,type
 "Solomon Street",wikidata,M,Q5360607,relation
 "Stevens Street",wikidata,M,Q1520474,relation
 "Stirling Street",wikidata,M,Q1360030,relation
+"Tuckfield Street",wikidata,M,Q7358240,relation
 "William Street",wikidata,M,Q130822,relation
 "Wray Avenue",wikidata,M,Q108030089,relation

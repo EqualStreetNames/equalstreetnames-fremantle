@@ -15,6 +15,7 @@ name,source,gender,wikidata,type
 "Quarry Street",wikidata,,Q188040,relation+way
 "Slip Street",wikidata,,Q361945,relation
 "Suffolk Street",wikidata,,Q23111,way
+"Vale Street",wikidata,,Q101044775,relation+way
 "Wardan Lane",wikidata,,Q9430;Q1251403,relation
 "Ada Street",,,,way
 "Adams Street",,,,way
@@ -41,6 +42,7 @@ name,source,gender,wikidata,type
 "Bellevue Terrace",,,,way
 "Belmont Street",,,,way
 "Bennewith Street",,,,way
+"Bick Lane",,,,way
 "Bickley Close",,,,way
 "Biddles Lane",,,,way
 "Binns Court",,,,way
@@ -163,7 +165,6 @@ name,source,gender,wikidata,type
 "Fullston Way",,,,way
 "Gallop Street",,,,way
 "Garling Street",,,,way
-"Garling Street Exit",,,,way
 "Gibson Street",,,,way
 "Girton Lane",,,,way
 "Glyde Street",,,,way
@@ -189,7 +190,7 @@ name,source,gender,wikidata,type
 "Hevron Street",,,,way
 "Hickory Street",,,,way
 "Hicks Street",,,,way
-"High Street",,,,way
+"High Street",,,,relation+way
 "High Street Exit",,,,way
 "Higham Road",,,,way
 "Hines Road",,,,way
@@ -211,7 +212,6 @@ name,source,gender,wikidata,type
 "Ives Close",,,,way
 "Jackson Street",,,,way
 "Jaggs Way",,,,way
-"James Street",,,,way
 "Jarvis Street",,,,way
 "Jean Street",,,,way
 "Jeffery Street",,,,way
@@ -269,7 +269,6 @@ name,source,gender,wikidata,type
 "Lukin Mews",,,,way
 "Lynch Place",,,,way
 "Lynn Street",,,,way
-"Malcolm Street",,,,way
 "Manning Arcade",,,,way
 "Manning Street",,,,relation
 "Manoora Close",,,,way
@@ -415,7 +414,6 @@ name,source,gender,wikidata,type
 "Snook Crescent",,,,way
 "South Beach Promenade",,,,way
 "South Street",,,,way
-"South Street Exit",,,,way
 "South Terrace",,,,way
 "Sowden Drive",,,,way
 "Stack Street",,,,way
@@ -424,7 +422,6 @@ name,source,gender,wikidata,type
 "Stirling Highway",,,,way
 "Stirling Highway Exit",,,,way
 "Stock Road",,,,way
-"Stock Road Exit",,,,way
 "Stockdale Road",,,,way
 "Stokes Street",,,,way
 "Strang Court",,,,way
@@ -437,6 +434,7 @@ name,source,gender,wikidata,type
 "Sydney Street",,,,way
 "Tangney Crescent",,,,way
 "Tapper Street",,,,way
+"Tasker Place",,,,way
 "Taylor Street",,,,way
 "Temby Court",,,,way
 "Terrazzo Lane",,,,way
@@ -451,12 +449,10 @@ name,source,gender,wikidata,type
 "Tonkin Road",,,,way
 "Trafford Street",,,,way
 "Trusting Lane",,,,way
-"Tuckfield Street",,,,relation
 "Turton Street",,,,way
 "Tydeman Road",,,,way
 "Tydeman Road Exit",,,,way
 "Tyrone Street",,,,way
-"Vale Street",,,,way
 "Vickridge Close",,,,way
 "Victor Street",,,,way
 "Victoria Quay Road",,,,way

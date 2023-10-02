@@ -7,6 +7,7 @@ name,source,gender,wikidata,type
 "Carnac Way",wikidata,,Q3289994,way
 "Cliff Street",wikidata,,Q107679,relation
 "East Street",wikidata,,Q684,relation+way
+"Essex Lane",wikidata,,Q23240,way
 "Essex Street",wikidata,,Q23240,relation
 "Fleet Street",wikidata,,Q63978866,relation
 "Goldsbrough Street",wikidata,,Q24185620,way
@@ -74,7 +75,6 @@ name,source,gender,wikidata,type
 "Canning Highway",,,,way
 "Canning Highway Exit",,,,way
 "Capo D'Orlando Drive",,,,way
-"Captains Lane",,,,way
 "Carob Court",,,,way
 "Carr Street",,,,way
 "Carrington Street",,,,way
@@ -142,10 +142,8 @@ name,source,gender,wikidata,type
 "Elder Place",,,,way
 "Elizabeth Street",,,,way
 "Emma Place",,,,way
-"Essex Lane",,,,way
 "Ethelwyn Street",,,,way
 "Eucla Court",,,,way
-"Euphrasie Court",,,,way
 "Farrell Street",,,,way
 "Farrier Lane",,,,way
 "Fay Street",,,,way
@@ -171,7 +169,6 @@ name,source,gender,wikidata,type
 "Gold Street",,,,way
 "Gough Place",,,,way
 "Greer Lane",,,,way
-"Grey Street",,,,relation
 "Griffiths Place",,,,way
 "Grigg Place",,,,way
 "Grosvenor Street",,,,way
@@ -255,7 +252,7 @@ name,source,gender,wikidata,type
 "Lilly Street",,,,way
 "Lime Street",,,,way
 "Limerick Way",,,,way
-"Little High Street",,,,way
+"Little High Street",,,,relation
 "Little Howard Street",,,,way
 "Little Lefroy Lane",,,,way
 "Livingstone Street",,,,way
@@ -414,7 +411,7 @@ name,source,gender,wikidata,type
 "Snook Crescent",,,,way
 "South Beach Promenade",,,,way
 "South Street",,,,way
-"South Terrace",,,,way
+"South Terrace",,,,relation
 "Sowden Drive",,,,way
 "Stack Street",,,,way
 "Stamos Court",,,,way

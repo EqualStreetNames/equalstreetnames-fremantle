@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 "Adelaide Street",wikidata,F,Q57645,relation
 "Ameling Rise",wikidata,F,Q119806806,way
 "Ellen Street",wikidata,F,Q61950986,relation
+"Euphrasie Court",wikidata,F,Q16062183,way
 "Queen Street",wikidata,F,Q57645,relation
 "Adcock Way",wikidata,M,Q98350454;Q98350658,way
 "Attfield Street",wikidata,M,Q16030955,relation
@@ -9,6 +10,7 @@ name,source,gender,wikidata,type
 "Barnett Street",wikidata,M,Q56447151,way
 "Brennan Street",wikidata,M,Q120884956,way
 "Burt Street",wikidata,M,Q4786233,relation
+"Captains Lane",wikidata,M,Q116980209,way
 "Collie Street",wikidata,M,Q443356,relation
 "Croke Lane",wikidata,M,Q64876076;Q8007542,way
 "Croke Street",wikidata,M,Q64876076,relation
@@ -16,6 +18,7 @@ name,source,gender,wikidata,type
 "Fairbairn Street",wikidata,M,Q61911855,relation
 "Finnerty Street",wikidata,M,Q121029405,relation
 "Fothergill Street",wikidata,M,Q119862370,way
+"Grey Street",wikidata,M,Q320291,relation
 "Henderson Street",wikidata,M,Q5339554,way
 "Henry Street",wikidata,M,Q108541423,relation
 "Howard Street",wikidata,M,Q5342919,relation

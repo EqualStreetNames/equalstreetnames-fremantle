@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 "Arundel Street",wikidata,,Q42114651,relation
 "Ashburton Terrace",wikidata,,Q724939,way
 "Cantonment Street",wikidata,,Q2543279,relation
+"Capo D'Orlando Drive",wikidata,,Q30023648,way
 "Carnac Street",wikidata,,Q3289994,way
 "Carnac Way",wikidata,,Q3289994,way
 "Cliff Street",wikidata,,Q107679,relation
@@ -12,6 +13,7 @@ name,source,gender,wikidata,type
 "Fleet Street",wikidata,,Q63978866,relation
 "Goldsbrough Street",wikidata,,Q24185620,way
 "Knutsford Street",wikidata,,Q1470791,relation
+"Norfolk Street",wikidata,,Q23109,relation
 "Point Street",wikidata,,Q24529780,relation+way
 "Quarry Street",wikidata,,Q188040,relation+way
 "Slip Street",wikidata,,Q361945,relation
@@ -40,7 +42,7 @@ name,source,gender,wikidata,type
 "Beard Street",,,,way
 "Beazley Way",,,,way
 "Bellamy Street",,,,way
-"Bellevue Terrace",,,,way
+"Bellevue Terrace",,,,relation
 "Belmont Street",,,,way
 "Bennewith Street",,,,way
 "Bick Lane",,,,way
@@ -49,10 +51,8 @@ name,source,gender,wikidata,type
 "Binns Court",,,,way
 "Birksgate Road",,,,way
 "Blamey Place",,,,way
-"Blinco Street",,,,way
 "Boas Place",,,,way
 "Bolt Street",,,,way
-"Bolton Place",,,,way
 "Booth Court",,,,way
 "Bostock Street",,,,way
 "Bowen Street",,,,way
@@ -74,7 +74,6 @@ name,source,gender,wikidata,type
 "Caldwell Street",,,,way
 "Canning Highway",,,,way
 "Canning Highway Exit",,,,way
-"Capo D'Orlando Drive",,,,way
 "Carob Court",,,,way
 "Carr Street",,,,way
 "Carrington Street",,,,way
@@ -82,7 +81,6 @@ name,source,gender,wikidata,type
 "Cattalini Lane",,,,way
 "Central Avenue",,,,way
 "Chadwick Street",,,,way
-"Chalmers Street",,,,way
 "Chamberlain Street",,,,way
 "Charles Street",,,,way
 "Chester Street",,,,way
@@ -154,7 +152,6 @@ name,source,gender,wikidata,type
 "Fisher Street",,,,way
 "Fleay Lane",,,,way
 "Flindell Street",,,,way
-"Forrest Street",,,,way
 "Forsyth Street",,,,way
 "Foundry Court",,,,way
 "Francisco Street",,,,way
@@ -191,8 +188,6 @@ name,source,gender,wikidata,type
 "High Street Exit",,,,way
 "Higham Road",,,,way
 "Hines Road",,,,way
-"Holdsworth Street",,,,relation
-"Holland Street",,,,way
 "Hollis Street",,,,way
 "Holmes Place",,,,way
 "Hope Street",,,,way
@@ -262,7 +257,6 @@ name,source,gender,wikidata,type
 "Long Street",,,,way
 "Longford Road",,,,way
 "Louisa Street",,,,way
-"Loukes Street",,,,way
 "Lukin Mews",,,,way
 "Lynch Place",,,,way
 "Lynn Street",,,,way
@@ -328,7 +322,6 @@ name,source,gender,wikidata,type
 "Noble Close",,,,way
 "Noel Street",,,,way
 "Norfolk Lane",,,,way
-"Norfolk Street",,,,relation
 "Norman Street",,,,way
 "North Mole Drive",,,,way
 "North Quay Road",,,,way
@@ -339,7 +332,6 @@ name,source,gender,wikidata,type
 "Ocean Road",,,,way
 "Old Port Beach Road",,,,way
 "Oldham Crescent",,,,way
-"Onslow Street",,,,way
 "Orchard Lane",,,,way
 "Orient Street",,,,way
 "Paget Street",,,,way
@@ -394,7 +386,7 @@ name,source,gender,wikidata,type
 "Rushby Way",,,,way
 "Sainsbury Road",,,,way
 "Salustri Place",,,,way
-"Samson Street",,,,way
+"Samson Street",,,,relation
 "Scott Street",,,,way
 "Seaview Street",,,,way
 "Sellenger Avenue",,,,way
@@ -426,7 +418,7 @@ name,source,gender,wikidata,type
 "Sultan Way",,,,way
 "Sumpton Street",,,,way
 "Swan Street",,,,way
-"Swanbourne Street",,,,way
+"Swanbourne Street",,,,relation
 "Sweetman Street",,,,way
 "Sydney Street",,,,way
 "Tangney Crescent",,,,way

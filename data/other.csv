@@ -35,14 +35,12 @@ name,source,gender,wikidata,type
 "Baker Street",,,,way
 "Barfield Place",,,,way
 "Barker Street",,,,way
-"Bateman Street",,,,way
 "Bayleaf Retreat",,,,way
 "Bayly Street",,,,way
 "Beach Street",,,,way
 "Beard Street",,,,way
 "Beazley Way",,,,way
 "Bellamy Street",,,,way
-"Bellevue Terrace",,,,relation
 "Belmont Street",,,,way
 "Bennewith Street",,,,way
 "Bick Lane",,,,way
@@ -54,7 +52,6 @@ name,source,gender,wikidata,type
 "Boas Place",,,,way
 "Bolt Street",,,,way
 "Booth Court",,,,way
-"Bostock Street",,,,way
 "Bowen Street",,,,way
 "Bracks Street",,,,way
 "Bradbury Way",,,,way
@@ -69,7 +66,6 @@ name,source,gender,wikidata,type
 "Burns Street",,,,way
 "Butson Street",,,,way
 "Butterworth Place",,,,way
-"Cadd Street",,,,way
 "Caesar Street",,,,way
 "Caldwell Street",,,,way
 "Canning Highway",,,,way

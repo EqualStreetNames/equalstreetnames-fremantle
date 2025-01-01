@@ -14,7 +14,7 @@ name,source,gender,wikidata,type
 "Goldsbrough Street",wikidata,,Q24185620,way
 "Knutsford Street",wikidata,,Q1470791,relation
 "Norfolk Street",wikidata,,Q23109,relation
-"Point Street",wikidata,,Q24529780,relation+way
+"Point Street",wikidata,,Q24529780,relation
 "Quarry Street",wikidata,,Q188040,relation+way
 "Slip Street",wikidata,,Q361945,relation
 "Suffolk Street",wikidata,,Q23111,way
@@ -48,7 +48,9 @@ name,source,gender,wikidata,type
 "Biddles Lane",,,,way
 "Binns Court",,,,way
 "Birksgate Road",,,,way
+"Black Trail",,,,way
 "Blamey Place",,,,way
+"Blue Trail",,,,way
 "Boas Place",,,,way
 "Bolt Street",,,,way
 "Booth Court",,,,way
@@ -70,6 +72,7 @@ name,source,gender,wikidata,type
 "Caldwell Street",,,,way
 "Canning Highway",,,,way
 "Canning Highway Exit",,,,way
+"Capo d'Orlando Marine Trail",,,,way
 "Carob Court",,,,way
 "Carr Street",,,,way
 "Carrington Street",,,,way
@@ -77,6 +80,7 @@ name,source,gender,wikidata,type
 "Cattalini Lane",,,,way
 "Central Avenue",,,,way
 "Chadwick Street",,,,way
+"Challenger Cray Trail",,,,way
 "Chamberlain Street",,,,way
 "Charles Street",,,,way
 "Chester Street",,,,way
@@ -85,6 +89,7 @@ name,source,gender,wikidata,type
 "Chudleigh Street",,,,way
 "Clarke Street",,,,way
 "Clontarf Road",,,,way
+"Cluning Avenue",,,,way
 "Cockburn Road",,,,way
 "College Corner",,,,way
 "Collick Street",,,,way
@@ -108,6 +113,7 @@ name,source,gender,wikidata,type
 "Cumbor Way",,,,way
 "Curedale Street",,,,way
 "Curtin Avenue",,,,way
+"Curtin Avenue PSP",,,,way
 "Customs Place",,,,way
 "Cypress Lane",,,,way
 "Dale Street",,,,way
@@ -139,6 +145,7 @@ name,source,gender,wikidata,type
 "Emma Place",,,,way
 "Ethelwyn Street",,,,way
 "Eucla Court",,,,way
+"Farmers Lane Entry",,,,way
 "Farrell Street",,,,way
 "Farrier Lane",,,,way
 "Fay Street",,,,way
@@ -153,7 +160,9 @@ name,source,gender,wikidata,type
 "Foundry Court",,,,way
 "Francisco Street",,,,way
 "Freeman Loop",,,,way
+"Fremantle Malls",,,,way
 "Fremantle Railway PSP",,,,way
+"Fremantle Railway Shared Path",,,,way
 "Fullston Way",,,,way
 "Gallop Street",,,,way
 "Garling Street",,,,way
@@ -176,6 +185,7 @@ name,source,gender,wikidata,type
 "Haynes Court",,,,way
 "Healy Road",,,,way
 "Hebbard Street",,,,way
+"Henderson Mall Entry",,,,way
 "Henville Street",,,,way
 "Herbert Street",,,,way
 "Hevron Street",,,,way
@@ -221,6 +231,7 @@ name,source,gender,wikidata,type
 "Kildare Link",,,,way
 "King Street",,,,way
 "King William Street",,,,way
+"Kirby Avenue",,,,way
 "Kirby Way",,,,way
 "Koolbardi Lane",,,,way
 "Kooringa Place",,,,way
@@ -264,6 +275,7 @@ name,source,gender,wikidata,type
 "Mardie Street",,,,way
 "Marimont Street",,,,way
 "Marine Terrace",,,,way
+"Market Lane",,,,way
 "Market Street",,,,relation
 "Marmion Street",,,,way
 "Marsh Close",,,,way
@@ -351,13 +363,17 @@ name,source,gender,wikidata,type
 "Pioneer Court",,,,way
 "Pitts Lane",,,,way
 "Plane Tree Grove",,,,way
+"Point Place",,,,way
 "Porcelli Close",,,,way
 "Port Beach Road",,,,way
 "Port Beach Road Exit",,,,way
+"Port Beach Road PSP",,,,way
 "Porter Street",,,,way
 "Pritchard Street",,,,way
 "Proctor Street",,,,way
 "Prowse Street",,,,way
+"Pulford Lane",,,,way
+"Pump Track",,,,way
 "Queen Victoria Street",,,,way
 "Queen Victoria Street Exit",,,,way
 "Queens Square",,,,way
@@ -368,6 +384,7 @@ name,source,gender,wikidata,type
 "Rennie Crescent South",,,,way
 "Reuben Street",,,,way
 "Reveley Court",,,,way
+"Richard Lane",,,,way
 "Riverside Road",,,,way
 "Robinson Street",,,,way
 "Rochfort Way",,,,way
@@ -377,12 +394,15 @@ name,source,gender,wikidata,type
 "Roscommon Crescent",,,,way
 "Rose Street",,,,way
 "Rous Head Road",,,,way
+"Rouse Head PSP",,,,way
 "Rowe Court",,,,way
 "Rudderham Drive",,,,way
 "Rule Street",,,,way
 "Rushby Way",,,,way
+"Sadie Stone Walk",,,,way
 "Sainsbury Road",,,,way
 "Salustri Place",,,,way
+"Samson Avenue",,,,way
 "Samson Street",,,,relation
 "Scott Street",,,,way
 "Seaview Street",,,,way
@@ -426,6 +446,7 @@ name,source,gender,wikidata,type
 "Terrazzo Lane",,,,way
 "Terrene Lane",,,,way
 "The Cutting",,,,way
+"The Piazza",,,,way
 "The Terrace",,,,way
 "Thomas Street",,,,way
 "Thompson Road",,,,way
@@ -438,6 +459,7 @@ name,source,gender,wikidata,type
 "Turton Street",,,,way
 "Tydeman Road",,,,way
 "Tydeman Road Exit",,,,way
+"Tydeman Road PSP",,,,way
 "Tyrone Street",,,,way
 "Vickridge Close",,,,way
 "Victor Street",,,,way
@@ -446,6 +468,7 @@ name,source,gender,wikidata,type
 "Walker Street",,,,way
 "Wallace Way",,,,way
 "Wallwork Court",,,,way
+"Walter Place",,,,way
 "Ward Street",,,,way
 "Wardie Street",,,,way
 "Wardle Place",,,,way
@@ -456,6 +479,7 @@ name,source,gender,wikidata,type
 "Weatherburn Way",,,,way
 "Wellesley Way",,,,way
 "Wesley Street",,,,way
+"Westgate Mall",,,,way
 "Westmeath Street",,,,way
 "Wexford Way",,,,way
 "Wharfing Lane",,,,way
@@ -467,6 +491,7 @@ name,source,gender,wikidata,type
 "Winterfold Road",,,,way
 "Wongan Avenue",,,,way
 "Wood Street",,,,way
+"Woodsons Arcade",,,,way
 "Workshop Lane",,,,way
 "Woylie Lane",,,,way
 "Wright Street",,,,way

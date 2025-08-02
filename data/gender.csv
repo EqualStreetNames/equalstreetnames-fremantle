@@ -57,4 +57,4 @@ name,source,gender,wikidata,type
 "Stirling Street",wikidata,M,Q1360030,relation
 "Tuckfield Street",wikidata,M,Q7358240,relation
 "William Street",wikidata,M,Q130822,relation
-"Wray Avenue",wikidata,M,Q108030089,relation
+"Wray Avenue",wikidata,M,Q108030089,relation+way

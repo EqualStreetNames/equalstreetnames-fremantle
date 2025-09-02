@@ -7,6 +7,7 @@ name,source,gender,wikidata,type
 "Carnac Street",wikidata,,Q3289994,way
 "Carnac Way",wikidata,,Q3289994,way
 "Cliff Street",wikidata,,Q107679,relation
+"Customs Place",wikidata,,Q14935795,way
 "East Street",wikidata,,Q684,relation+way
 "Essex Lane",wikidata,,Q23240,way
 "Essex Street",wikidata,,Q23240,relation
@@ -115,7 +116,6 @@ name,source,gender,wikidata,type
 "Curedale Street",,,,way
 "Curtin Avenue",,,,way
 "Curtin Avenue PSP",,,,way
-"Customs Place",,,,way
 "Cypress Lane",,,,way
 "Dale Street",,,,way
 "Dalgety Street",,,,way

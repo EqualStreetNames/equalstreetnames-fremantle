@@ -14,6 +14,7 @@ name,source,gender,wikidata,type
 "Fleet Street",wikidata,-,Q63978866,relation
 "Goldsbrough Street",wikidata,-,Q24185620,way
 "Knutsford Street",wikidata,-,Q1470791,relation
+"Little Howard Street",wikidata,-,Q5342919;Q114876900,way
 "Norfolk Street",wikidata,-,Q23109,relation
 "Point Street",wikidata,-,Q24529780,relation
 "Quarry Street",wikidata,-,Q188040,relation+way

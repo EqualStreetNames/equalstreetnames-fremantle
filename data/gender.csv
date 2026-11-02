@@ -19,7 +19,8 @@ name,source,gender,wikidata,type
 "Point Street",wikidata,-,Q24529780,relation
 "Quarry Street",wikidata,-,Q188040,relation+way
 "Slip Street",wikidata,-,Q361945,relation
-"Suffolk Street",wikidata,-,Q23111,way
+"Suffolk Street",wikidata,-,Q67574715,way
+"Terrazzo Lane",wikidata,-,Q1334655,way
 "Vale Street",wikidata,-,Q101044775,relation+way
 "Wardan Lane",wikidata,-,Q9430;Q1251403,relation
 "Adelaide Street",wikidata,F,Q57645,relation
@@ -28,6 +29,7 @@ name,source,gender,wikidata,type
 "Euphrasie Court",wikidata,F,Q16062183,way
 "Friend Street",wikidata,F,Q110175215,way
 "Queen Street",wikidata,F,Q57645,relation
+"Queen Victoria Street",wikidata,F,Q9439,way
 "Adcock Way",wikidata,M,Q98350454;Q98350658,way
 "Attfield Street",wikidata,M,Q16030955,relation
 "Bannister Street",wikidata,M,Q2031640,way
@@ -43,9 +45,8 @@ name,source,gender,wikidata,type
 "Captains Lane",wikidata,M,Q116980209,way
 "Chalmers Street",wikidata,M,Q121101743,way
 "Collie Street",wikidata,M,Q443356,relation
-"Croke Lane",wikidata,M,Q64876076;Q8007542,way
+"Croke Lane",wikidata,M,Q64876076,way
 "Croke Street",wikidata,M,Q64876076,relation
-"Edward Street",wikidata,M,Q437310,relation
 "Fairbairn Street",wikidata,M,Q61911855,relation
 "Finnerty Street",wikidata,M,Q121029405,relation
 "Forrest Street",wikidata,M,Q921617,way
@@ -68,7 +69,6 @@ name,source,gender,wikidata,type
 "Ord Street",wikidata,M,Q1586678,relation+way
 "Paddy Troy Mall",wikidata,M,Q7123637,way
 "Pakenham Street",wikidata,M,Q108541429,relation
-"Parry Street",wikidata,M,Q437310,relation
 "Peter Hughes Drive",wikidata,M,Q108326291,relation
 "Phillimore Street",wikidata,M,Q6252794,relation+way
 "Price Street",wikidata,M,Q24845751,relation

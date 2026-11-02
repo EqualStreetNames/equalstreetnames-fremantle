@@ -50,13 +50,11 @@ name,source,gender,wikidata,type
 "Caesar Street",,,,way
 "Caldwell Street",,,,way
 "Canning Highway",,,,way
-"Canning Highway Exit",,,,way
 "Canteen Lane",,,,way
 "Capo d'Orlando Marine Trail",,,,way
 "Carob Court",,,,way
 "Carr Street",,,,way
 "Carrington Street",,,,way
-"Carrington Street Exit",,,,way
 "Cattalini Lane",,,,way
 "Central Avenue",,,,way
 "Chadwick Street",,,,way
@@ -110,6 +108,7 @@ name,source,gender,wikidata,type
 "Dixon Street",,,,way
 "Doepel Street",,,,way
 "Doig Place",,,,way
+"Doolya Road",,,,way
 "Dorothy Street",,,,relation
 "Dorrie Lane",,,,way
 "Douglas Street",,,,way
@@ -140,7 +139,7 @@ name,source,gender,wikidata,type
 "Francisco Street",,,,way
 "Freeman Loop",,,,way
 "Fremantle Malls",,,,way
-"Fremantle Railway PSP",,,,way
+"Fremantle Railway Principle Shared Path",,,,way
 "Fremantle Railway Shared Path",,,,way
 "Fullston Way",,,,way
 "Gallop Street",,,,way
@@ -171,7 +170,6 @@ name,source,gender,wikidata,type
 "Hickory Street",,,,way
 "Hicks Street",,,,way
 "High Street",,,,relation+way
-"High Street Exit",,,,way
 "Higham Road",,,,way
 "Hines Road",,,,way
 "Hollis Street",,,,way
@@ -197,7 +195,6 @@ name,source,gender,wikidata,type
 "Jewell Parade",,,,way
 "Johannah Street",,,,way
 "John Street",,,,way
-"John Street Exit",,,,way
 "Jones Street",,,,way
 "Jose Court",,,,way
 "Joslin Street",,,,way
@@ -220,7 +217,6 @@ name,source,gender,wikidata,type
 "Laidlaw Street",,,,way
 "Lawrence Way",,,,way
 "Leach Highway",,,,way
-"Leach Highway Exit",,,,way
 "Lee Avenue",,,,way
 "Lefroy Road",,,,way
 "Leighton Beach Boulevard",,,,way
@@ -326,6 +322,7 @@ name,source,gender,wikidata,type
 "Palmerston Row",,,,way
 "Pamment Street",,,,way
 "Parmelia Street",,,,way
+"Parry Street",,,,way
 "Pass Crescent",,,,way
 "Passmore Avenue",,,,way
 "Paton Place",,,,way
@@ -345,7 +342,6 @@ name,source,gender,wikidata,type
 "Point Place",,,,way
 "Porcelli Close",,,,way
 "Port Beach Road",,,,way
-"Port Beach Road Exit",,,,way
 "Port Beach Road PSP",,,,way
 "Porter Street",,,,way
 "Pritchard Street",,,,way
@@ -353,7 +349,6 @@ name,source,gender,wikidata,type
 "Prowse Street",,,,way
 "Pulford Lane",,,,way
 "Pump Track",,,,way
-"Queen Victoria Street",,,,way
 "Queen Victoria Street Exit",,,,way
 "Queens Square",,,,way
 "Rawlinson Street",,,,way
@@ -404,7 +399,6 @@ name,source,gender,wikidata,type
 "Stamos Court",,,,way
 "Staples Street",,,,way
 "Stirling Highway",,,,way
-"Stirling Highway Exit",,,,way
 "Stock Road",,,,way
 "Stockdale Road",,,,way
 "Stokes Street",,,,way
@@ -421,7 +415,6 @@ name,source,gender,wikidata,type
 "Tasker Place",,,,way
 "Taylor Street",,,,way
 "Temby Court",,,,way
-"Terrazzo Lane",,,,way
 "Terrene Lane",,,,way
 "The Cutting",,,,way
 "The Piazza",,,,way
@@ -437,7 +430,6 @@ name,source,gender,wikidata,type
 "Tuart Walk",,,,way
 "Turton Street",,,,way
 "Tydeman Road",,,,way
-"Tydeman Road Exit",,,,way
 "Tydeman Road PSP",,,,way
 "Tyrone Street",,,,way
 "Vickridge Close",,,,way
